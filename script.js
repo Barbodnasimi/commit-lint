@@ -1,6 +1,5 @@
 const input = prompt('enter a number')
 
-
 function checkNumber(num) {
     if (isNaN(num)) {
         alert('enter a number')
